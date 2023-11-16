@@ -57,7 +57,7 @@ const createServer = async (container) => {
     method: 'GET',
     path: '/',
     handler: () => ({
-      value: 'Hello Faishal Zufari!',
+      value: 'Hello Development!',
     }),
   });
 
